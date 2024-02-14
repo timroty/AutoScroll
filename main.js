@@ -1,5 +1,5 @@
-let scrollSpeed = 50; // Lower is quicker. Controls the timeout
-let scrollBy = 10;
+let scrollSpeed = 38; // Lower is quicker. Controls the timeout
+let scrollBy = 20;
 
 let scrollTimeout;
 
